@@ -17,7 +17,7 @@ public class StudentTest {
 		studentObj1.setMarks1(10);
 		studentObj1.setMarks2(20);
 		studentObj1.setMarks3(30);
-		System.out.println(studentObj1.toString());
+		System.out.println(studentObj1);
 		
 		studentObj2.setRollNumber(2);
 		studentObj2.setName("Balram");
@@ -25,7 +25,7 @@ public class StudentTest {
 		studentObj2.setMarks1(30);
 		studentObj2.setMarks2(20);
 		studentObj2.setMarks3(40);
-		System.out.println(studentObj2.toString());
+		System.out.println(studentObj2);
 		
 		studentObj3.setRollNumber(3);
 		studentObj3.setName("Chetanya");
@@ -33,7 +33,7 @@ public class StudentTest {
 		studentObj3.setMarks1(50);
 		studentObj3.setMarks2(60);
 		studentObj3.setMarks3(70);
-		System.out.println(studentObj3.toString());
+		System.out.println(studentObj3);
 		
 		studentObj4.setRollNumber(4);
 		studentObj4.setName("Damodar");
@@ -41,7 +41,7 @@ public class StudentTest {
 		studentObj4.setMarks1(70);
 		studentObj4.setMarks2(80);
 		studentObj4.setMarks3(90);
-		System.out.println(studentObj4.toString());
+		System.out.println(studentObj4);
 		
 		studentObj5.setRollNumber(5);
 		studentObj5.setName("Eklavya");
@@ -49,7 +49,7 @@ public class StudentTest {
 		studentObj5.setMarks1(20);
 		studentObj5.setMarks2(60);
 		studentObj5.setMarks3(30);
-		System.out.println(studentObj5.toString());
+		System.out.println(studentObj5);
 		
 	}
 
