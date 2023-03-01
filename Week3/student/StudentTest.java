@@ -18,6 +18,7 @@ public class StudentTest {
 		studentObj1.setMarks2(20);
 		studentObj1.setMarks3(30);
 		System.out.println(studentObj1);
+		System.out.println(studentObj1.getName()+" grade "+studentObj1.getMarks1()+" : "+studentObj1.getMarks2()+" : "+studentObj1.getMarks3()+" ; ");
 		
 		studentObj2.setRollNumber(2);
 		studentObj2.setName("Balram");
@@ -26,6 +27,7 @@ public class StudentTest {
 		studentObj2.setMarks2(20);
 		studentObj2.setMarks3(40);
 		System.out.println(studentObj2);
+		System.out.println(studentObj2.getName()+" grade "+studentObj2.getMarks1()+" : "+studentObj2.getMarks2()+" : "+studentObj2.getMarks3()+" ; ");
 		
 		studentObj3.setRollNumber(3);
 		studentObj3.setName("Chetanya");
@@ -34,6 +36,7 @@ public class StudentTest {
 		studentObj3.setMarks2(60);
 		studentObj3.setMarks3(70);
 		System.out.println(studentObj3);
+		System.out.println(studentObj3.getName()+" grade "+studentObj3.getMarks1()+" : "+studentObj3.getMarks2()+" : "+studentObj3.getMarks3()+" ; ");
 		
 		studentObj4.setRollNumber(4);
 		studentObj4.setName("Damodar");
@@ -42,6 +45,7 @@ public class StudentTest {
 		studentObj4.setMarks2(80);
 		studentObj4.setMarks3(90);
 		System.out.println(studentObj4);
+		System.out.println(studentObj4.getName()+" grade "+studentObj4.getMarks1()+" : "+studentObj4.getMarks2()+" : "+studentObj4.getMarks3()+" ; ");
 		
 		studentObj5.setRollNumber(5);
 		studentObj5.setName("Eklavya");
@@ -50,6 +54,7 @@ public class StudentTest {
 		studentObj5.setMarks2(60);
 		studentObj5.setMarks3(30);
 		System.out.println(studentObj5);
+		System.out.println(studentObj5.getName()+" grade "+studentObj5.getMarks1()+" : "+studentObj5.getMarks2()+" : "+studentObj5.getMarks3()+" ; ");
 		
 	}
 
