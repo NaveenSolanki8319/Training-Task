@@ -1,5 +1,5 @@
-# Training-Task
-Nucleus Training Tasks
+# NucleusTeq Training Tasks
+
 Week 1 - Git 
 Week 2 - Java Basics 1 
 Week 3 - Java Basics 2 
